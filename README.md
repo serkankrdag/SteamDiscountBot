@@ -1,4 +1,4 @@
-# Steam Discount Bot
+# Steam Discount Bot 
 
 This JavaScript code fetches a list of all Steam games using the Steam Web API, and then sends another API request to get a list of discounted games. It then outputs a list of the discounted games, including their name, discount percentage, and final price in the local currency. The Steam Discount Bot can be used to keep track of Steam sales and make it easier to find games on sale.
 
